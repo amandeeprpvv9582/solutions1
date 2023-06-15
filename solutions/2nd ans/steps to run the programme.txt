@@ -1,0 +1,14 @@
+steps to run the programme :-
+
+1) Install Go: Make sure you have Go installed on your system. You can download and install it from the official Go website: https://golang.org/dl/
+
+2) Save the code: Save the provided code in a file with a .go extension, for example, directory_count.go.
+
+3) Set the root directory: Replace the rootDir variable value with the actual root directory path you want to scan.
+
+4) Open a terminal or command prompt: Open a terminal or command prompt and navigate to the directory where you saved the Go file.
+
+5) Run the program: Execute the following command to run the Go program:     go run directory_count.go
+6) Wait for the program to finish: The program will start scanning the directory tree, counting the files and subdirectories. It will display the total number of files and subdirectories once it completes.
+
+Make sure to replace /path/to/your/directory with the actual root directory path you want to scan before running the program.
